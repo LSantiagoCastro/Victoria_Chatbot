@@ -36,12 +36,12 @@ console = Console()
 
 
 # ----------API KEY OPENAI ---------------#
-apikey = "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" #cuidadovictoria@gmail.com 
+apikey = "    " #cuidadovictoria@gmail.com 
 openai.api_key = apikey
 
 # ---------- TELEGRAM --------------- #
-# TOKEN = "6655526556:AAFrPvQF5jyExe7x24oNyC0dRyZW_nPchJ8"
-TOKEN = "6694318775:AAFJOZ2dlPfzTtzd_pGQwR9Rz4W2V0MQ-Ok"
+
+TOKEN = "    "
 #getpass('Enter the secret value: ')
 os.environ['OPENAI_API_KEY'] = apikey
 
